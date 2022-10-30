@@ -1,0 +1,262 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.ProgSaveAll=0
+Compilator.ProgRunSelection=0
+Compilator.LogType=0
+DefaultDir=D:\Sync\FVMS Work Documents\Websites and Applications\dvm2015
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+Extensions=*.*
+[Project tree]
+dvm2015
+	+dvm2015
+		-css
+			css\nivo-slider.css
+		-images
+			-slideshow
+				images\slideshow\s1.jpg
+				images\slideshow\s2.jpg
+				images\slideshow\s3.jpg
+				images\slideshow\s4.jpg
+				images\slideshow\s5.jpg
+				images\slideshow\s7.jpg
+				images\slideshow\s8.jpg
+				images\slideshow\s9.jpg
+			-sponsors
+				images\sponsors\Aliman .png
+				images\sponsors\Alkoloid.png
+				images\sponsors\Avicena  logo.jpg
+				images\sponsors\Bi-el.png
+				images\sponsors\BIMILK_Logo_02.jpg
+				images\sponsors\biomedica_logo jpeg1.jpg
+				images\sponsors\Biotek.png
+				images\sponsors\logo Veterina.png
+				images\sponsors\logo vin.bmp
+				images\sponsors\LOGO ZDRAVJE RADOVO SHINE LARGE.jpg
+				images\sponsors\Logo-s danni-1.jpg
+				images\sponsors\Rojal.png
+				images\sponsors\samoveze.jpg
+				images\sponsors\scan0001.jpg
+				images\sponsors\Sponsors.jpg
+				images\sponsors\sponzori.jpg
+				images\sponsors\Sredinski enovrsticni - Reprezentativni_RGB.jpg
+				images\sponsors\Sredinski enovrsticni - Reprezentativni_RGB.png
+				images\sponsors\subotica.jpg
+				images\sponsors\vetpromet.jpg
+				images\sponsors\veze.png
+				images\sponsors\vin 1.png
+				images\sponsors\vin.png
+				images\sponsors\Vita vet.jpg
+				images\sponsors\zaednoveze.jpg
+			-struga
+				images\struga\12073794-monastery-of-kalista-in-struga.jpg
+				images\struga\1320201-hotel-drim-struge-maqedoni-2.jpg
+				images\struga\Crn drim.jpg
+				images\struga\foaje.jpg
+				images\struga\Hotel Drim - dinning room.jpg
+				images\struga\Hotel Drim - Map.jpg
+				images\struga\Hotel Drim - room.jpg
+				images\struga\Hotel Drim 1.jpg
+				images\struga\Hotel Drim -road.jpg
+				images\struga\Hotel Drim.jpg
+				images\struga\hotel.jpg
+				images\struga\hoteldrim1.bmp
+				images\struga\macedoniamap.jpg
+				images\struga\Radozda.jpg
+				images\struga\roadtostruga.jpg
+				images\struga\Room 1.jpg
+				images\struga\Room 2.jpg
+				images\struga\Room 3.jpg
+				images\struga\s1.jpg
+				images\struga\s2.jpg
+				images\struga\s3.jpg
+				images\struga\s4.jpg
+				images\struga\Slika od sala 1.bmp
+				images\struga\Slika od sala 1.jpg
+				images\struga\Slika od sala 2.jpg
+				images\struga\struga.jpg
+				images\struga\svetilnik.jpg
+			images\an.jpg
+			images\arrow-down.gif
+			images\arrow-right.gif
+			images\face.jpg
+			images\face.png
+			images\facebook.png
+			images\fvms logo.jpg
+			images\fvms.png
+			images\icon_pdf.gif
+			images\linkedin icon.gif
+			images\LOGO.gif
+			images\LOGO.jpg
+			images\macdenar.gif
+			images\macedonian_dinar.png
+			images\macvetrev.jpg
+			images\MacVetRev1.jpg
+			images\me1.jpg
+			images\me11.jpg
+			images\me2.jpg
+			images\me3.jpg
+			images\menu_divider.jpg
+			images\pdf.png
+			images\pdf1.png
+			images\pdg.gif
+			images\program.gif
+			images\program.png
+			images\rss_icon.png
+			images\slider_left_control.png
+			images\slider_right_control.png
+			images\templatemo_200_200_ads.jpg
+			images\templatemo_content_bg.jpg
+			images\templatemo_content_bg_wrapper.jpg
+			images\templatemo_content_box_bottom.png
+			images\templatemo_content_box_middle.png
+			images\templatemo_content_box_top.png
+			images\templatemo_date_bg.png
+			images\templatemo_footer_top.jpg
+			images\templatemo_image_01.jpg
+			images\templatemo_image_02.jpg
+			images\templatemo_image_03.jpg
+			images\templatemo_image_04.jpg
+			images\templatemo_image_05.jpg
+			images\templatemo_image_06.jpg
+			images\templatemo_logo.png
+			images\templatemo_top_panel_bg.jpg
+			images\templatemo_top_panel_bg_wrapper_inner.jpg
+			images\templatemo_top_panel_bg_wrapper_outer.jpg
+			images\twitter_icon.png
+			images\ukim.gif
+			images\ukim.png
+			images\under-construction.jpg.gif
+		-include
+			include\class.phpmailer.php
+			include\fgcontactform.php
+		-js
+			js\jquery.js
+			js\jquery.min.1.2.6.js
+			js\jquery.min.1.3.2.js
+			js\jquerycssmenu.js
+		-oodbor
+			oodbor\ad.jpg
+			oodbor\bs.jpg
+			oodbor\bsd.jpg
+			oodbor\dekan.jpg
+			oodbor\dj.jpg
+			oodbor\fpp.jpg
+			oodbor\gn.jpg
+			oodbor\ic.jpg
+			oodbor\iu.jpg
+			oodbor\iv.jpg
+			oodbor\js.jpg
+			oodbor\kb.jpg
+			oodbor\lp.jpg
+			oodbor\pt.jpg
+			oodbor\rv.jpg
+			oodbor\sm.jpg
+			oodbor\td.jpg
+			oodbor\vp.jpg
+			oodbor\vs.jpg
+			oodbor\zhm.jpg
+		-Previous Meetings
+			-_notes
+				Previous Meetings\_notes\Naslova DVM2012-copy1.mno
+				Previous Meetings\_notes\Naslovna DVM 2011_copy 1.mno
+			Previous Meetings\Book  of PROCEEDINGS 2011.pdf
+			Previous Meetings\BOOK OF PROCEEDINGS_2012.pdf
+			Previous Meetings\BOOK OF PROCEEDINGS_2013.jpg
+			Previous Meetings\BOOK OF PROCEEDINGS_2013.pdf
+			Previous Meetings\BOOK OF PROCEEDINGS_2014.jpg
+			Previous Meetings\BOOK OF PROCEEDINGS_2014.pdf
+			Previous Meetings\DVM 2010 BOOK OF ABSTRACTS.pdf
+			Previous Meetings\dvm2013-4.jpg
+			Previous Meetings\Naslova DVM2012.jpg
+			Previous Meetings\Naslova DVM2012.psd
+			Previous Meetings\Naslova DVM2012-copy1
+			Previous Meetings\Naslovna DVM 2011.jpg
+			Previous Meetings\Naslovna DVM 2011.psd
+			Previous Meetings\Naslovna DVM 2011_copy 1
+			Previous Meetings\Naslovna DVM_2010.jpg
+			Previous Meetings\PROCEEDINGS dvm-2013.pdf
+		-script
+			script\jquery.nivo.slider.js
+		-sliki DVM
+			sliki DVM\IMG_0018.JPG
+			sliki DVM\IMG_0039.JPG
+			sliki DVM\IMG_0055.JPG
+			sliki DVM\IMG_0059.JPG
+			sliki DVM\IMG_0070.JPG
+			sliki DVM\IMG_0083.JPG
+			sliki DVM\IMG_0176.JPG
+			sliki DVM\IMG_0317.JPG
+			sliki DVM\IMG_0326.JPG
+			sliki DVM\IMG_0407.JPG
+			sliki DVM\IMG_0438.JPG
+			sliki DVM\IMG_0439.JPG
+			sliki DVM\IMG_0447.JPG
+			sliki DVM\IMG_0461.JPG
+			sliki DVM\IMG_0466.JPG
+			sliki DVM\IMG_0515.JPG
+			sliki DVM\IMG_3909.JPG
+			sliki DVM\IMG_3917.JPG
+			sliki DVM\IMG_3954.JPG
+			sliki DVM\IMG_3975.JPG
+			sliki DVM\IMG_4045.JPG
+			sliki DVM\IMG_4059.JPG
+		accommodation.html
+		error_log
+		events.html
+		home.html
+		Hotel Drim - Conference Catalog.pdf
+		index.html
+		infoclimate.html
+		infocurrency.html
+		infodate.html
+		informations.html
+		infotravel.html
+		infotravelrails.html
+		infotravelroad.html
+		jquerycssmenu.css
+		jquerycssmenuright.css
+		orgcom.html
+		orgcomi.html
+		orgcoms.html
+		papers1.html
+		preprogram.gif
+		preprogram.pdf
+		preprogram.png
+		previous.html
+		program.html
+		program.pdf
+		program1.html
+		ProgramDVM2015.pdf
+		Registration Form DVM2015.pdf
+		Registration form.pdf
+		Registration.php
+		templatemo_style.css
+		thank-you.php
+		undercons.html
+[Open project files]
+0=orgcom.html
+1=orgcoms.html
+2=orgcomi.html
+3=index.html
+[Selected Project Files]
+Main=
+Selected=orgcom.html
+[orgcom.html]
+TopLine=107
+Caret=1,117
+[orgcoms.html]
+TopLine=47
+Caret=23,67
+[orgcomi.html]
+TopLine=35
+Caret=43,42
+[index.html]
+TopLine=78
+Caret=19,96
